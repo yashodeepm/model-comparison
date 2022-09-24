@@ -1,0 +1,2 @@
+model_checkpoint_path: "base_model_mod_kernel_count_64_epochs_20"
+all_model_checkpoint_paths: "base_model_mod_kernel_count_64_epochs_20"
